@@ -18,7 +18,7 @@
 Introducing a financial app so you can track every transaction on a daily basis!
 
 
-![Gif](https://github.com/cschiappa/finances-tracker/blob/main/tracker_gif.gif?raw=true)
+![Gif](https://github.com/cschiappa/finances-tracker/blob/main/track_gif.gif?raw=true)
 
 
 
